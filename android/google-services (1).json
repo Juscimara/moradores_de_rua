@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19468987734",
+    "project_id": "integradorasvii",
+    "storage_bucket": "integradorasvii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19468987734:android:1c8b47147190f6d30e3af7",
+        "android_client_info": {
+          "package_name": "com.example.moradores_de_rua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19468987734-l2u5cuiishbqjl1b3f1g3b2jr78uffs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcNA_s1_UnLDDrNL70VtOcRVWO9AYqOZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19468987734-l2u5cuiishbqjl1b3f1g3b2jr78uffs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
