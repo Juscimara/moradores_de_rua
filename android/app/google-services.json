@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "19468987734",
-    "project_id": "integradorasvii",
-    "storage_bucket": "integradorasvii.appspot.com"
+    "project_number": "81507917258",
+    "project_id": "projetomoradorderua-e714d",
+    "storage_bucket": "projetomoradorderua-e714d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:19468987734:android:1c8b47147190f6d30e3af7",
+        "mobilesdk_app_id": "1:81507917258:android:1a61cdb0e8f4fc8e6d4333",
         "android_client_info": {
           "package_name": "com.example.moradores_de_rua"
         }
       },
       "oauth_client": [
         {
-          "client_id": "19468987734-l2u5cuiishbqjl1b3f1g3b2jr78uffs7.apps.googleusercontent.com",
+          "client_id": "81507917258-gk6ko4c6mm7sb1bl8bg5ntctgs94llvv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDcNA_s1_UnLDDrNL70VtOcRVWO9AYqOZw"
+          "current_key": "AIzaSyD35rSq5kAWzibDBxBweYPd7VwJXkGlu5M"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "19468987734-l2u5cuiishbqjl1b3f1g3b2jr78uffs7.apps.googleusercontent.com",
+              "client_id": "81507917258-gk6ko4c6mm7sb1bl8bg5ntctgs94llvv.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
